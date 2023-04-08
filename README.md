@@ -19,8 +19,13 @@ Visualize model performance using Matplotlib
 Gain hands-on experience in object detection with TFOD and Python
 How to Run the Project:
 1.Install Tensorflow Object Detection on your local machine or on Google Colab following the instructions provided in the course.
+
 2.Use LabelImg or any other image labeling tool to collect and label images for training.
+
 3.Train the gesture detection model using the provided Python code and Tensorflow Object Detection API.
+
 4.Fine-tune the model as needed to optimize its accuracy.
+
 5.Test the model using a webcam or images to detect the four different gestures in real-time.
+
 6.Visualize the model's performance using Matplotlib for further analysis.
