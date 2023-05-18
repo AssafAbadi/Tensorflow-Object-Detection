@@ -16,6 +16,7 @@ Fine-tune the model to improve precision and recall
 Test the model in real-time using a webcam and images
 Visualize model performance using Matplotlib
 Gain hands-on experience in object detection with TFOD and Python
+
 How to Run the Project:
 
 1.Install Tensorflow Object Detection on your local machine or on Google Colab following the instructions provided in the course.
