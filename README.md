@@ -5,7 +5,7 @@ Gesture Detection with Tensorflow Object Detection
 As part of the AI-powered Object Detection course, I built a deep learning model using Tensorflow Object Detection (TFOD) to detect four different gestures. This project showcases my skills in image labeling, model training, and model evaluation, utilizing various libraries such as Matplotlib for visualization.
 
 Technologies and Tools Utilized:
-Tensorflow Object Detection (TFOD)
+Tensorflow Object Detection (TFOD),
 Python,
 LabelImg for image labeling,
 Matplotlib for visualization
