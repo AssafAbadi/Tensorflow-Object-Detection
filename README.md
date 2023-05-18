@@ -6,16 +6,17 @@ As part of the AI-powered Object Detection course, I built a deep learning model
 
 Technologies and Tools Utilized:
 Tensorflow Object Detection (TFOD)
-Python
-LabelImg for image labeling
+Python,
+LabelImg for image labeling,
 Matplotlib for visualization
+
 Project Highlights:
-Collect and label images for training using LabelImg
-Train a deep learning model for gesture detection using TFOD and Python
-Fine-tune the model to improve precision and recall
-Test the model in real-time using a webcam and images
-Visualize model performance using Matplotlib
-Gain hands-on experience in object detection with TFOD and Python
+Collect and label images for training using LabelImg,
+Train a deep learning model for gesture detection using TFOD and Python,
+Fine-tune the model to improve precision and recall,
+Test the model in real-time using a webcam and images,
+Visualize model performance using Matplotlib,
+Gain hands-on experience in object detection with TFOD and Python,
 
 How to Run the Project:
 
